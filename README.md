@@ -1,2 +1,2 @@
-# Ancestry-Management
-Family trees are an age old concept, primarily used to maintain a record of the vast families existing in society. Starting from trees drawn on papers, to extensive tapestries describing all family members, family trees have been an integral part of society. They are one of the few Database Management Systems that were needed even in the early decades to document all the members of a community.
+The system has been designed for database maintenance of a Family Tree. It will store all the personal basic information of a person and his family. This data will be readily available to update delete modify as required. 
+The information will be entered by the user but it will be totally at the administrator’s discretion how to manipulate it. 
